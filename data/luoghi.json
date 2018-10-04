@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "activities": [
+          "pattinaggio di velocità su ghiaccio",
+          "hockey su ghiaccio femminile",
+          "hockey su ghiaccio maschile",
+          "pattinaggio artistico",
+          "short track"
+        ],
+        "facilities": ["villaggio olimpico", "media center"],
+        "place": "Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.189033508300781, 45.464946600971466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "activities": ["sci di fondo", "biathlon"],
+        "facilities": [],
+        "place": "Valtellina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.877910614013672, 46.16841886922939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "activities": ["snowboard"],
+        "facilities": [],
+        "place": "Bormio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.372295379638672, 46.46854680654239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "activities": ["freestyle"],
+        "facilities": [],
+        "place": "Livigno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.136497020721436, 46.538229606644954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "activities": ["salto", "combinata nordica"],
+        "facilities": ["villaggio olimpico"],
+        "place": "Pedrazzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.603021621704102, 46.311782214242434]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "activities": ["bob", "slittino", "skeleton", "sci alpino", "curling"],
+        "facilities": ["villaggio olimpico", "media center"],
+        "place": "Pedrazzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.136931419372559, 46.53772776098951]
+      }
+    }
+  ]
+}
